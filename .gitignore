@@ -1,0 +1,16 @@
+# Large files and directories to ignore
+yolov5-env/
+runs/
+*.pt
+*.dylib
+__pycache__/
+*.pyc
+node_modules/
+venv/
+.env
+.DS_Store
+*.log
+*.zip
+Sign_language_data/
+static/results/
+static/uploads/
