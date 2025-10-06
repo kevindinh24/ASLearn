@@ -98,34 +98,6 @@ The application recognizes **6 basic ASL signs**:
    - **Backend API**: http://localhost:5000
    - **Webcam Feed**: http://localhost:5000/video_feed
 
-## 📁 Project Structure
-
-```
-ASL/
-├── learn-asl/                    # Main application directory
-│   ├── src/
-│   │   ├── Pages/               # React components
-│   │   │   ├── home.js          # Home page
-│   │   │   ├── learn.js         # Learning page
-│   │   │   ├── PracticeAI.js    # AI practice page
-│   │   │   └── cause.js         # About page
-│   │   ├── App.js               # Main React app
-│   │   └── App.css              # Global styles
-│   ├── templates/               # Flask HTML templates
-│   ├── static/                  # CSS and static assets
-│   ├── models/                  # YOLO model files
-│   │   └── best.pt             # Trained ASL detection model
-│   ├── app.py                   # Flask backend server
-│   ├── package.json             # Node.js dependencies
-│   └── venv/                    # Python virtual environment
-├── Sign_language_data/          # Training dataset
-│   ├── train/                   # Training images and labels
-│   ├── test/                    # Test images and labels
-│   └── data.yaml               # Dataset configuration
-├── runs/detect/                 # Model training results
-└── README.md                    # This file
-```
-
 ## 🎮 Usage
 
 ### Learning Mode
