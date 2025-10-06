@@ -220,11 +220,12 @@ python app.py
 
 This project was developed by a team of 5 computer science students:
 
-- **Srinarayan Srikanth** - Freshman, Computer Science
-- **Kenny Brown** - Freshman, Computing Security Technology  
-- **Soham Deshmukh** - Freshman, Computer Science
-- **Dhruv Goli** - Freshman, Computer Science
-- **Kevin Dinh** - Freshman, Computer Science
+- **Kevin Dinh** - Computer Science
+- **Srinarayan Srikanth** - Computer Science
+- **Kenny Brown** - Computing Security Technology  
+- **Soham Deshmukh** - Computer Science
+- **Dhruv Goli** - omputer Science
+
 
 ## 📄 License
 
