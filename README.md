@@ -1,6 +1,6 @@
 # 🤟 ASL Learning Web Application
 
-An interactive web application that combines **machine learning** with **web development** to create an engaging American Sign Language (ASL) learning platform. The app uses **YOLO11** computer vision model for real-time sign language detection and recognition.
+This project was made at the 2025 Philly Codefest Hackathon. It is an interactive web application that combines **machine learning** with **web development** to create an engaging American Sign Language (ASL) learning platform. The app uses **YOLO11** computer vision model for real-time sign language detection and recognition.
 
 ![ASL Learning App](https://img.shields.io/badge/ASL-Learning-blue) ![React](https://img.shields.io/badge/React-19.0.0-blue) ![Flask](https://img.shields.io/badge/Flask-3.1.2-green) ![YOLO](https://img.shields.io/badge/YOLO-11-orange) ![OpenCV](https://img.shields.io/badge/OpenCV-4.12.0-red)
 
